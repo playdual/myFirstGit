@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\WITHOUT\FILEDELETE\LOSE.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{B8797C27-0ACA-4D6E-B171-C7931EF74FD0}</ProjectGuid>
